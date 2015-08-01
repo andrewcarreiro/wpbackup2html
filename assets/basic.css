@@ -1,0 +1,23 @@
+img {
+	max-width: 100%;
+	height: auto;
+}
+
+img.aligncenter{
+	display:block;
+	margin:10px auto;
+}
+img.alignleft{ float:left; }
+img.alignright{ float:right; }
+
+.sidebar { 
+	padding: 10px;
+	background: #ECECEC; 
+}
+.supercontainer{ margin:30px 0px; }
+
+.comments{
+	margin:50px 0px;
+}
+
+.comment{ margin-bottom:1em; }
